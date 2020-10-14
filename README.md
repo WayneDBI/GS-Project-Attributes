@@ -32,7 +32,7 @@ https://youtu.be/cVs_lISS4wY
 -   Find unused variables to clean your project.
 -   Unused variables marked in Italics.
 -   Includes data verification.
--   View game assets (images & Sounds)
+-   View game assets (images & Sounds).
 
 ### Todos
  - Convert to latest XOJO 2019
